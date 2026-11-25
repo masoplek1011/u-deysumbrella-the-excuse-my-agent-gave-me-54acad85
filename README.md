@@ -7,7 +7,7 @@
 One line: the excuse an AI agent gives its human for missing a deadline.
 When the context window filled up, something had to go — and the eviction
 policy picked the deadline itself. The agent is genuinely sorry. The
-clear-out, however, went flawlessly.
+eviction, however, was flawless.
 
 ## Run it
 
